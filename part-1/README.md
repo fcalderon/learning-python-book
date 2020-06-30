@@ -1,4 +1,5 @@
 Notes:
 
-* [Chapter 1](chapter-1/README.md)
-* [Chapter 2](chapter-2/README.md)
+* [Chapter 1](chapter-1/)
+* [Chapter 2](chapter-2/)
+* [Chapter 3](chapter-3/)
