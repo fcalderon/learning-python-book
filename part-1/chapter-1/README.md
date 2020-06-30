@@ -53,3 +53,17 @@ I really liked this definition:
 
 
 One could say that Python takes the best of the three worlds.
+
+## Quiz
+
+1.
+- Software quality, developer productivity, portability, support library, and
+ others more subjective
+
+2. Google, Maya
+
+3. Performance
+
+4. Almost anything
+
+5. Because it's named after Monty Python
