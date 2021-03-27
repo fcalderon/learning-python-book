@@ -116,3 +116,23 @@ fruit_objects = [{'name': 'apple', 'color': 'red'},
 assert {'apple', 'grape'} == {fruit['name'] for fruit in fruit_objects}
 
 ```
+
+### Sorting Keys: for loops
+
+
+```python
+
+D = dict(a=1, b=2, c=3)
+Ks = list(D.keys())
+Ks.sort()
+Ks
+# ['a', 'b', 'c']
+
+for key in Ks:
+   print(key, '=>', D[key])
+
+# a => 1
+# b => 2
+# c => 3
+
+```
