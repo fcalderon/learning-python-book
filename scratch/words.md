@@ -1,1 +1,1 @@
-mnemonic - a word that makes it easy to remember something.
+mnemonic - a word/device that makes it easy to remember something.
